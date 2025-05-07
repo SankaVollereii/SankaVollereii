@@ -19,10 +19,19 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq&unique={true|1|on|yes})
-
 <div align="center">
   <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
+
+<div align="left">
+  <a href="https://discord.com/users/sandikaaa." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/sandikaaa_78" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/OnlySankaaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
