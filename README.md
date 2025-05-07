@@ -85,7 +85,6 @@
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
-  ### Show some ❤️ by starring repositories!
 </div>
 
 <p align="center">
@@ -96,6 +95,8 @@
   <a href="https://github.com/SankaVollereii">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+
+### Show some ❤️ by starring repositories!
 </div>
 
 <footer align="center">
