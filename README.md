@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
+  <img src="https://media1.tenor.com/m/3IkpgVTwnb4AAAAC/arona-plana.gif" />
 </p>
 
 <p align="center">
