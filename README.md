@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/SankaVollereii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;Welcome+To+My+Github+Repository" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;Welcome+To+My+Github+Repository" alt="Typing SVG" />
   </a>
 </p>
 
