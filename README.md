@@ -19,7 +19,7 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq&unique={true|1|on|yes})
 
 <div align="center">
   <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
