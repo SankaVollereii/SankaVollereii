@@ -47,9 +47,9 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Years Badge](https://badges.pufler.dev/years/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
+  [![Repos Badge](https://badges.pufler.dev/repos/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
   
 </div>  
 
