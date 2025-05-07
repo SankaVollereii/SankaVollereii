@@ -12,13 +12,13 @@
   <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
 </p>
 
-<p align="center">
+<div style="margin: 0; padding: 0;" align="center">
   <a href="https://github.com/SankaVollereii">
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
+<div style="margin: 0; padding: 0;" align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=279&color=gradient&text=Welcome%20To%20My%20Github%20Repository&textBg=true&reversal=true&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=F7F7F7&rotate=0&section=header&animation=fadeIn"/>
 </div>
 
