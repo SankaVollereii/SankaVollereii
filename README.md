@@ -22,7 +22,10 @@
 <div align="center">
   <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
 </div>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyp2ndm5rqez2f5h4cwho2koxq&unique={true|1|on|yes})
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
 <div align="center">
   
