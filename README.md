@@ -27,13 +27,7 @@
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nurutomo/Nurutomo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nurutomo/Nurutomo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nurutomo/Nurutomo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
   
 ---
