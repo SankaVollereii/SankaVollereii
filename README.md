@@ -13,10 +13,8 @@
   <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
 </p>
 
-- 👋 Hi, I’m Rapikz
-- ❎ I'm still learning
-- 👨🏻‍🦱 16 years old
-- 😊 I'm from Indonesia
+<h3 align="center">👋 Hi, I’m Sanka Vollerei</h3>
+<h3 align="center">❎ I'm still learning</h3>
 
 ---
 <div align="center">
