@@ -10,10 +10,10 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
+  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif](https://tenor.com/gDkWxusY1Jp.gif" />
 </p>
 
-- 👋 Hi, I’m Rapikz
+- 👋 Hi, I’m Sanka Vollerei
 - ❎ I'm still learning
 - 👨🏻‍🦱 16 years old
 - 😊 I'm from Indonesia
