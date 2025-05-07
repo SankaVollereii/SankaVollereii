@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=279&color=gradient&text=Welcome%20To%20My%20Github%20Repository&textBg=true&reversal=true&fontAlign=30&fontAlignY=50&fontSize=30&fontColor=F7F7F7&rotate=0&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=279&color=gradient&text=Welcome%20To%20My%20Github%20Repository&textBg=true&reversal=true&fontAlign=50&fontAlignY=50&fontSize=30&fontColor=F7F7F7&rotate=0&section=header&animation=fadeIn"/>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
