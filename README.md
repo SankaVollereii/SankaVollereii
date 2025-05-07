@@ -29,7 +29,7 @@
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nurutomo&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
 
 ---
 
