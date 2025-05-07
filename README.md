@@ -10,7 +10,7 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/S13QCl1zvS0AAAAC/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AB.gif" />
+  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
 </p>
 
 - 👋 Hi, I’m Rapikz
