@@ -103,8 +103,8 @@
 <a href="https://github.com/SankaVollereii" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
 </a>
-
-### Show some ❤️ by starring repositories!
+<div align="center">
+  <h2>Show some ❤️ by starring repositories!</h2>
 <p>© 2025 SankaVollereii • All rights reserved</p>
 </footer>
 
