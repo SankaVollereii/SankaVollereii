@@ -7,7 +7,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
+### About Me :
 
+<p align="center">
+  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
+</p>
+
+- 👋 Hi, I’m Rapikz
+- ❎ I'm still learning
+- 👨🏻‍🦱 16 years old
+- 😊 I'm from Indonesia
+
+---
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SankaVollerei&color=63a4ff&style=for-the-badge)
