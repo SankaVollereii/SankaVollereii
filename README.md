@@ -12,7 +12,10 @@
   <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
 </p>
 
-<h3 align="center">👋 Hi, I’m Sanka Vollerei</h3><h3 align="center">Welcome To My Github Repository</h3><h3 align="center">Dont Forget to Follow my Sosial Media</h3>
+<h3 align="center">
+👋 Hi, I’m Sanka Vollerei
+Welcome To My Github Repository
+Dont Forget to Follow my Sosial Media</h3>
 <div align="center">
   <a href="https://discord.com/users/sandikaaa." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
