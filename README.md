@@ -20,16 +20,16 @@
 ---
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SankaVollerei&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/SankaVollereii?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/SankaVollereii?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/SankaVollereii?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge)
+  [![Years Badge](https://badges.pufler.dev/years/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Nurutomo?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
   
 </div>
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nurutomo&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
 
 ---
 
