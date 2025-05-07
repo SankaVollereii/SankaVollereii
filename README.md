@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/SankaVollereii">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
@@ -40,7 +40,7 @@
   <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge)
