@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
-### About Me :
 
 <p align="center">
   <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
