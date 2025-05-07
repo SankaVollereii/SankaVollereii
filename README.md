@@ -80,13 +80,6 @@
 
 ---
 
-<footer align="center">
-<a href="https://github.com/SankaVollereii" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-</a>
-<p>© 2025 SankaVollereii • All rights reserved</p>
-</footer>
-
 <div align="center">
   <h2>💝 Support Me</h2>
   
@@ -104,5 +97,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
+
+<footer align="center">
+<a href="https://github.com/SankaVollereii" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+</a>
+<p>© 2025 SankaVollereii • All rights reserved</p>
+</footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
