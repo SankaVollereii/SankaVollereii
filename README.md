@@ -27,7 +27,10 @@
 </div>
 
 ---
-![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
+<div align="center">
+  <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
+</div>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/Nurutomo)
   
 ---
