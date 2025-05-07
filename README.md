@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/SankaVollereii">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
