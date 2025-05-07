@@ -6,16 +6,18 @@
   <img src="https://media1.tenor.com/m/hsYCr88j52oAAAAd/plana-arona.gif" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <a href="https://github.com/SankaVollereii">
-      <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
-    </a>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img height="200" src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SankaVollereii">
+        <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="right">
+      <img height="200" src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" />
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Languages and Tools:</h3>
