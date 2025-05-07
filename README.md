@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">👋 Hi, I’m Sanka Vollerei</h3>
-<h3 align="center">❎ I'm still learning</h3>
+<h3 align="center">Welcome To My Github Repository</h3>
 
 ---
 <div align="center">
