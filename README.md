@@ -57,14 +57,14 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=SankaVollereii&cc=000&tc=fff&ic=fff&bc=000"  width="80%">
+  <img src="https://github-stats-alpha.vercel.app/api?username=SankaVollereii&cc=000&tc=fff&ic=fff&bc=000"  width="70%">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankaVollereii&theme=tokyonight" width="100%">
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankaVollereii&theme=tokyonight" width="45%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankaVollereii&theme=tokyonight" width="45%">
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SankaVollereii&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="80%" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=SankaVollereii&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="70%" alt="streak graph"  />
   </p>
 </div>
 
