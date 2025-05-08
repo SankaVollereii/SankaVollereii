@@ -57,7 +57,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=SankaVollereii&cc=000&tc=fff&ic=fff&bc=000"  width="100%">
+  <img src="https://github-stats-alpha.vercel.app/api?username=SankaVollereii&cc=000&tc=fff&ic=fff&bc=000"  width="80%">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankaVollereii&theme=tokyonight" width="100%">
   <p align="center">
