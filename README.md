@@ -80,7 +80,7 @@
 
 <div align="center">
   <h2>🌐 Weekly Development</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SankaVollereii&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=tokyonight&hide_border=true" width="100%">
 </div>
 
 ---
