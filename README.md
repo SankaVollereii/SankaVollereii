@@ -61,11 +61,10 @@
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankaVollereii&theme=tokyonight" width="100%">
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SankaVollereii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankaVollereii&theme=tokyonight" width="45%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankaVollereii&theme=tokyonight" width="45%">
-    
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=SankaVollereii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   </p>
 </div>
 
