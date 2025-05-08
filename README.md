@@ -3,12 +3,8 @@
 </div>
 
 <p align="center">
- 
-
-<p align="center">
-   <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" align="right"/>
-</p>
   <a href="https://github.com/SankaVollereii">
+  <img src="https://media1.tenor.com/m/S13QCl1zvS0AAAAC/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AB.gif" align="right"/>
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
   </a>
 </p>
