@@ -62,9 +62,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankaVollereii&theme=tokyonight" width="100%">
   
   <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nurutomo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankaVollereii&theme=tokyonight" width="45%">
-    <img src="https://streak-stats.demolab.com?user=Nurutomo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3"  width="45%"   />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankaVollereii&theme=tokyonight" width="45%">
+
   </p>
 </div>
 
@@ -77,7 +78,7 @@
 
 <div align="center">
   <h2>🌐 Profile Trophy</h2>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nurutomo" alt="SankaVollereii" /></a></p>
+  < <img src="https://github-profile-trophy.vercel.app?username=Nurutomo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"
 
 <div align="center">
   <h2>🌐 Weekly Development</h2>
