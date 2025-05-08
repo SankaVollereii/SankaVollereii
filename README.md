@@ -90,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/hsYCr88j52oAAAAd/plana-arona.gif" />
+  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" />
 </p>
 
 <div align="center">
