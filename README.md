@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" width="80%"/>
+  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" width="30%"/>
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@
   <h2>💝 Support Me</h2>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif"  width="80%"/>
+  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif"  width="30%"/>
 </p>
 
 <div align="center">
