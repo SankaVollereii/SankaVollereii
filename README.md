@@ -78,6 +78,11 @@
   <h2>🌐 Profile Trophy</h2>
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nurutomo" alt="SankaVollereii" /></a></p>
 
+<div align="center">
+  <h2>🌐 Weekly Development</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SankaVollereii&theme=tokyonight&hide_border=true" width="100%">
+</div>
+
 ---
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
