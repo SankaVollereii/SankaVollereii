@@ -79,15 +79,15 @@
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nurutomo" alt="SankaVollereii" /></a></p>
 
 ---
-
-<div align="center">
-  <h2>💝 Support Me</h2>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
 </div>
 
 ---
+
+<div align="center">
+  <h2>💝 Support Me</h2>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" />
