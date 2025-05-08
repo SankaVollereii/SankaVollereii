@@ -43,9 +43,12 @@
   <img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="Pacman Game">
 </div>
 
-<div align="center">
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
-</div>
+<p align="center">
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode" alt="GitHub WidgetBox">
+  </a>
+</p>
+
 
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge)
