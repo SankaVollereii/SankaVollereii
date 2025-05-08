@@ -113,7 +113,7 @@
   <h2>💝 Support Me</h2>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif"  width="30%"/>
+  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif"/>
 </p>
 
 <div align="center">
