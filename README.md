@@ -71,21 +71,16 @@
 ---
 
 <div align="center">
+  <h2>🌐 Profile Trophy</h2>
+  <img src="https://github-profile-trophy.vercel.app?username=Nurutomo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" alt="trophy graph"
+
+<div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankaVollereii&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<div align="center">
-  <h2>🌐 Profile Trophy</h2>
-  <img src="https://github-profile-trophy.vercel.app?username=Nurutomo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" alt="trophy graph"
-
-</picture>
   <h2>🌐 Weekly Development</h2>
   <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SankaVollereii&theme=tokyonight&hide_border=true" width="100%">
 </div>
 
