@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/SankaVollereii">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=1000&pause=1000&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
   </a>
 </p>
 
