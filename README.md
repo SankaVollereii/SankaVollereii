@@ -50,13 +50,18 @@
 </p>
 
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
-  [![Repos Badge](https://badges.pufler.dev/repos/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Nurutomo?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
-  
-</div>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nurutomo&color=63a4ff&style=for-the-badge" alt="Profile Views">
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://badges.pufler.dev/years/Nurutomo?style=for-the-badge&color=63a4ff" alt="Years Badge">
+  </a>
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://badges.pufler.dev/repos/Nurutomo?style=for-the-badge&color=63a4ff" alt="Repos Badge">
+  </a>
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://badges.pufler.dev/commits/monthly/Nurutomo?style=for-the-badge&color=63a4ff" alt="Commits Badge">
+  </a>
+</p>
 
 ---
 
