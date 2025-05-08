@@ -84,7 +84,9 @@
 </div>
 
 ---
-  
+
+<div align="center">
+  <h2>💬 Quotes</h2>  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
 </div>
