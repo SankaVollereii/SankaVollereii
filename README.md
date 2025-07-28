@@ -40,7 +40,7 @@
 </p>
 
 <div align="center">
-  <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif" alt="Pacman Game">
+  <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
 </div>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
