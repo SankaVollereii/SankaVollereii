@@ -102,37 +102,6 @@
 ---
 
 <div align="center">
-  <h2>🚀 My Anime Projects</h2>
-  <img src="https://media.tenor.com/7sC-jBF2IIgAAAAC/anime-girl.gif" width="350px" />
-  <p>
-    <i><b>Sankanime</b> is a Free anime streaming website where you can watch English or Indonesian Subbed and Dubbed Anime online.</i>
-  </p>
-  <br/>
-  <p>
-    <a href="https://sankanime.com" target="_blank">
-      <img src="https://img.shields.io/badge/Sankanime-Website-ff69b4?style=for-the-badge&logo=plex&logoColor=white" alt="Sankanime Website"/>
-    </a>
-    <a href="https://backup.sankanime.com/" target="_blank">
-      <img src="https://img.shields.io/badge/SankanimeV2-Backup-f28e1c?style=for-the-badge&logo=serverless&logoColor=white" alt="SankanimeV2 Backup"/>
-    </a>
-    <a href="https://sfile.mobi/2E4TUjNfraQ" target="_blank">
-      <img src="https://img.shields.io/badge/Download-Android_APK-28a745?style=for-the-badge&logo=android&logoColor=white" alt="Sankanime APK"/>
-    </a>
-  </p>
-  <br/>
-  <h3>✨ Other Projects</h3>
-  <p>
-    <a href="https://www.sankavollerei.com/download/anime" target="_blank">
-      <img src="https://img.shields.io/badge/Anime_Downloader_&_API-blueviolet?style=for-the-badge&logo=fastapi&logoColor=white" alt="Anime Downloader & REST API"/>
-    </a>
-    <a href="https://sankavollerei.com" target="_blank">
-      <img src="https://img.shields.io/badge/Visit-My_Portfolio-007BFF?style=for-the-badge&logo=react&logoColor=white" alt="My Project Portfolio"/>
-    </a>
-  </p>
-</div>
----
-
-<div align="center">
   <h2>💬 Quotes</h2>  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
