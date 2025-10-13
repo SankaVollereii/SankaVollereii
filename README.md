@@ -1,300 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Sankanime&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Free%20Anime%20Streaming%20Platform&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Sanka%20Vollerei&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
-  <a href="https://sankanime.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%8E%8C+Welcome+to+Sankanime;%E2%9C%A8+Your+Ultimate+Anime+Destination" alt="Typing SVG" />
-  </a>
+  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Anime-Streaming-FF6B6B?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/100%25-FREE-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi-Language-4ECDC4?style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">🌟 Sankanime is a Free anime streaming website which you can watch English or Indonesian Subbed and Dubbed Anime online</h3>
-
----
-
-## 🌐 Quick Links / Link Cepat
-
-<p align="center">
-  <a href="https://sankanime.com">
-    <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime.com-FF6B6B?style=for-the-badge" />
-  </a>
-  <a href="https://backup.sankanime.com/">
-    <img src="https://img.shields.io/badge/🔄_Backup_Site-SankanimeV2-4ECDC4?style=for-the-badge" />
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Sanka+Vollerei;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://sfile.mobi/2E4TUjNfraQ">
-    <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://img.shields.io/badge/📥_API-Downloader-63A4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </a>
-</p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
-
-## 📸 Screenshots / Tangkapan Layar
-
-<div align="center">
-  <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/homepage.webp" alt="Home Page" width="100%" >
-</div>
-
-<details>
-<summary align="center"><strong>📱 View more screenshots / Lihat lebih banyak screenshot</strong></summary>
-
-<br/>
-
-**AnimeInfo Page**
-<div align="center">
-  <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/animeinfo.webp" alt="AnimeInfo Page" width="100%">
-</div>
-
-<br/>
-
-**Searchbar**
-<div align="center">
-  <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/searchbar.webp" alt="Searchbar" width="100%">
-</div>
-
-<br/>
-
-**Character & Voice Actors**
-<div align="center">
-  <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/voiceactors.webp" alt="Character & Voice Actors" width="100%">
-</div>
-
-<br/>
-
-**Watch Page**
-<div align="center">
-  <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/watchpage.webp" alt="Watch Page" width="100%">
-</div>
-
-</details>
-
----
-
-## ✨ Features / Fitur
-
-<div align="center">
-
-### 🇬🇧 English Features
-
-</div>
-
-- 🎬 **Extensive Anime Library** - Thousands of anime titles at your fingertips
-- 🌍 **Multi-Language Support** - Watch in English or Indonesian subtitles/dubs
-- 📱 **Mobile Friendly** - Stream seamlessly on any device
-- 💯 **100% Free** - No subscription fees, no hidden costs
-- ⚡ **Fast Streaming** - High-quality video with minimal buffering
-- 🆕 **Regular Updates** - Latest episodes added as soon as they air
-- 🔍 **Easy Search** - Find your favorite anime quickly
-- 💾 **Download Support** - Save episodes for offline viewing
-
-<div align="center">
-
-### 🇮🇩 Fitur Bahasa Indonesia
-
-</div>
-
-- 🎬 **Koleksi Anime Lengkap** - Ribuan judul anime dalam genggaman Anda
-- 🌍 **Dukungan Multi-Bahasa** - Tonton dengan subtitle/dubbing Inggris atau Indonesia
-- 📱 **Ramah Mobile** - Streaming lancar di semua perangkat
-- 💯 **100% Gratis** - Tanpa biaya berlangganan, tanpa biaya tersembunyi
-- ⚡ **Streaming Cepat** - Video berkualitas tinggi dengan buffering minimal
-- 🆕 **Update Rutin** - Episode terbaru ditambahkan segera setelah tayang
-- 🔍 **Pencarian Mudah** - Temukan anime favorit Anda dengan cepat
-- 💾 **Dukungan Download** - Simpan episode untuk ditonton offline
-
----
-
-## 📱 Installation Guide / Panduan Instalasi
-
-<div align="center">
-
-### 🇬🇧 Android APK Installation
-
-</div>
-
-1. Click **[Download APK](https://sfile.mobi/2E4TUjNfraQ)**
-2. Allow installation from unknown sources in your device settings
-3. Open the downloaded APK file
-4. Follow the installation prompts
-5. Launch Sankanime and start watching!
-
-<div align="center">
-
-### 🇮🇩 Instalasi APK Android
-
-</div>
-
-1. Klik **[Download APK](https://sfile.mobi/2E4TUjNfraQ)**
-2. Izinkan instalasi dari sumber tidak dikenal di pengaturan perangkat
-3. Buka file APK yang telah diunduh
-4. Ikuti petunjuk instalasi
-5. Buka Sankanime dan mulai menonton!
-
----
-
-## 🎯 Why Choose Sankanime? / Mengapa Memilih Sankanime?
-
-<div align="center">
-
-### 🇬🇧 English
-
-</div>
-
-**🛡️ No Ads Interruption**  
-100% ad-free! Enjoy anime without any annoying ads interrupting your viewing experience.
-
-**⚡ 1080p HD Support**  
-High-quality 1080p HD video for the best viewing experience.
-
-**⏩ Auto Skip Intro**  
-Automatically skip intros to go straight to the main content.
-
-**🌐 5-8 Server Options**  
-Super fast servers with 5-8 alternative server choices.
-
-**📚 Complete Anime Collection**  
-Anime collection & donghua from 1917 to present.
-
-**🌍 Multi Subtitle**  
-Subtitles in multiple languages: Indonesian, English, and more.
-
-**📝 Custom Subtitle Upload**  
-Upload your own custom subtitle files for a more personalized viewing experience.
-
-**🎬 Complete Features**  
-Comics, soundtracks, trailers, character info, and voice actor details available for every anime.
-
-**📅 Monthly Release Schedule**  
-Complete monthly release schedule with anime information coming soon.
-
-**👤 Login & Save History**  
-Login to save your viewing history.
-
----
-
-<div align="center">
-
-### 🇮🇩 Bahasa Indonesia
-
-</div>
-
-**🛡️ Tanpa Iklan Sama Sekali**  
-100% bebas iklan! Nikmati anime tanpa gangguan iklan sedikit pun.
-
-**⚡ Support 1080p HD**  
-Kualitas video HD 1080p untuk pengalaman menonton terbaik.
-
-**⏩ Auto Skip Intro**  
-Skip intro otomatis untuk langsung ke konten utama.
-
-**🌐 Server Wushhh 5-8 Pilihan**  
-Server super cepat dengan 5-8 pilihan server alternatif.
-
-**📚 Anime Terlengkap**  
-Koleksi anime & donghua dari tahun 1917 sampai sekarang.
-
-**🌍 Multi Subtitle**  
-Subtitle berbagai bahasa: Indonesia, English, dan lainnya.
-
-**📝 Custom Subtitle Sesukamu**  
-Unggah file subtitle kustom Anda sendiri untuk pengalaman menonton yang lebih personal.
-
-**🎬 Fitur Lengkap**  
-Tersedia Comic, soundtrack, trailer, informasi karakter dan pengisi suara untuk setiap anime.
-
-**📅 Jadwal Rilis 1 Bulan**  
-Jadwal rilis anime lengkap untuk 1 bulan penuh dan informasi anime yang akan datang.
-
-**👤 Login & Save History**  
-Login untuk menyimpan history tontonan Anda.
-
----
-
-## 🌟 Popular Genres / Genre Populer
-
-<div align="center">
-
-| Action 🔥 | Romance 💖 | Comedy 😂 | Drama 🎭 |
-|:---------:|:----------:|:---------:|:--------:|
-| **Fantasy** 🗡️ | **Magic** 🔮 | **Mecha** 🤖 | **Horror** 🧟 |
-| **School** 🏫 | **Shounen** ⚔️ | **Shoujo** 💐 | **Game** 🎮 |
-
-</div>
-
----
-
-## 🛠️ API Access / Akses API
-
-<div align="center">
-
-### For Developers / Untuk Developer
-
-Access our REST API for anime downloads and integration
-
-**🔗 API Endpoint:** [sankavollerei.com/download/anime](https://www.sankavollerei.com/download/anime)
-
-</div>
-
-**Perfect for:**
-- ✅ Automated anime downloads / Unduhan anime otomatis
-- ✅ Third-party integrations / Integrasi pihak ketiga
-- ✅ Custom anime applications / Aplikasi anime kustom
-- ✅ Batch processing / Pemrosesan batch
-
----
-
-<div align="center">
-  <h2>🔗 Visit My Project / Kunjungi Project Saya</h2>
-</div>
-
-<p align="center">
-  <a href="https://sankavollerei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Explore+More+Projects;Anime+Tools+%26+API;Visit+SankaVollerei.com" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sankavollerei.com">
-    <img src="https://img.shields.io/badge/🌟_Visit-sankavollerei.com-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Explore more features and tools for anime enthusiasts!</strong><br/>
-  <strong>Jelajahi lebih banyak fitur dan alat untuk penggemar anime!</strong>
-</p>
-
----
-
-## 📞 Support / Dukungan
-
-<div align="center">
-
-### 🇬🇧 Need Help?
-If you encounter any issues or have questions, feel free to reach out through our website contact form.
-
-### 🇮🇩 Butuh Bantuan?
-Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui formulir kontak di website kami.
-
-</div>
-
----
-
-## 📱 Connect With Us / Hubungi Kami
-
+<h3 align="center">Dont Forget to Follow my Sosial Media</h3>
 <p align="center">
   <a href="https://www.tiktok.com/@sandikaaa78">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
@@ -312,55 +33,101 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubu
 
 ---
 
-## ⚠️ Disclaimer / Penafian
+<p align="center">
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
+  <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
+</div>
 
-### 🇬🇧 English
-Sankanime is a free anime streaming platform. All content is sourced from publicly available resources. We respect copyright and will remove any content upon request from legitimate copyright holders.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SankaVollereii&data=followers,repositories,stars&theme=darkmode)](https://github.com/SankaVollereii)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SankaVollereii&color=63a4ff&style=for-the-badge)
+  [![Years Badge](https://badges.pufler.dev/years/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
+  [![Repos Badge](https://badges.pufler.dev/repos/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/SankaVollereii?style=for-the-badge&color=63a4ff)](https://github.com/SankaVollereii)
+  
+</div>  
 
-### 🇮🇩 Bahasa Indonesia
-Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari sumber daya yang tersedia untuk umum. Kami menghormati hak cipta dan akan menghapus konten apa pun atas permintaan dari pemegang hak cipta yang sah.
+---
 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=SankaVollereii&cc=000&tc=fff&ic=fff&bc=000"  width="70%">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankaVollereii&theme=tokyonight" width="100%">
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SankaVollereii&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SankaVollereii&theme=tokyonight" width="45%">
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=SankaVollereii&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="70%" alt="streak graph"  />
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🎉 Start Watching Now! / Mulai Menonton Sekarang!</h2>
+  <h2>🌐 Profile Trophy</h2>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  <img src="https://github-profile-trophy.vercel.app?username=Nurutomo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" alt="trophy graph"
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankaVollereii&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+</div>
+
+<div align="center">
+  <h2>🌐 Weekly Development</h2>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SankaVollereii&theme=tokyonight&hide_border=true" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <h2>💬 Quotes</h2>  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   
-  <a href="https://sankanime.com">
-    <img src="https://img.shields.io/badge/🌐_VISIT-SANKANIME.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <h2>💝 Support Me</h2>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/SankaVollereii">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+for+Anime+Fans;Thanks+for+visiting!+%F0%9F%91%8B;Let's+watch+anime+together!+%F0%9F%8E%8C" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SankaVollereii&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-  ![Platform](https://img.shields.io/badge/Platform-Web%20%26%20Mobile-blue?style=for-the-badge)
-  
-</div>
-
----
-
-<div align="center">
-  <h2>💝 Show Some Love / Berikan Dukungan</h2>
-  <p>⭐ Star this repository if you like Sankanime!</p>
-  <p>⭐ Beri bintang repository ini jika Anda suka Sankanime!</p>
-</div>
-
+  <h2>Show some ❤️ by starring repositories!</h2>
 <footer align="center">
-  <p>© 2024-2025 Sankanime • All rights reserved</p>
-  <p>Developed by <a href="https://github.com/SankaVollereii">SankaVollereii</a></p>
+<a href="https://github.com/SankaVollereii" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+</a>
+<p>© 2025 SankaVollereii • All rights reserved</p>
 </footer>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
