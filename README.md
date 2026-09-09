@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" width="250px"/>
+  <img src="https://cdn.sankavollerei.web.id/plana.gif" width="250px"/>
 </div>
 
 <div align="center">
