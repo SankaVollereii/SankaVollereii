@@ -27,10 +27,10 @@
 
 <h3 align="center">🚀 My Projects & Communities</h3>
 <div align="center">
-  <a href="https://sankanime.com">
+  <a href="https://sankanime.web.id">
     <img src="https://img.shields.io/badge/Sankanime-%23FFBADE.svg?style=for-the-badge&logo=applemusic&logoColor=black" alt="Sankanime" />
   </a>
-  <a href="https://v4.sankanime.com/">
+  <a href="https://v4.sankanime.web.id">
     <img src="https://img.shields.io/badge/SankaFlix-%23E50914.svg?style=for-the-badge&logo=netflix&logoColor=white" alt="SankaFlix" />
   </a>
   <br>
@@ -53,7 +53,7 @@
   <a href="https://t.me/OnlySankaaa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://sankanime.com/contactcs">
+  <a href="https://sankanime.web.id/contactcs">
     <img src="https://img.shields.io/badge/Contact_Me-%232B2A3C.svg?style=for-the-badge" alt="Contact CS" />
   </a>
 </div>
