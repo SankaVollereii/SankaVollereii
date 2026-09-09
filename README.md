@@ -30,8 +30,8 @@
   <a href="https://sankanime.web.id">
     <img src="https://img.shields.io/badge/Sankanime-%23FFBADE.svg?style=for-the-badge&logo=applemusic&logoColor=black" alt="Sankanime" />
   </a>
-  <a href="https://v4.sankanime.web.id">
-    <img src="https://img.shields.io/badge/SankaFlix-%23E50914.svg?style=for-the-badge&logo=netflix&logoColor=white" alt="SankaFlix" />
+  <a href="https://sankavollerei.web.id">
+    <img src="https://img.shields.io/badge/My%20project-%23E50914.svg?style=for-the-badge&logo=note&logoColor=white" alt="My Project" />
   </a>
   <br>
   <a href="https://www.whatsapp.com/channel/0029Vb7fWF61CYoQMRaXBM1X">
